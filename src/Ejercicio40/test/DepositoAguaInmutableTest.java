@@ -26,6 +26,7 @@ public class DepositoAguaInmutableTest {
     public void test4(){
         DepositoAguaInmutable depositoAguaInmutable = new DepositoAguaInmutable(400,500);
         assertEquals(400,depositoAguaInmutable.capacidadActual());
-        assertEquals(401,depositoAguaInmutable.añadirLitro().capacidadActual());
+        depositoAguaInmutable = depositoAguaInmutable.añadirLitro();
+        assertEquals(401,depositoAguaInmutable.capacidadActual());
     }
 }
