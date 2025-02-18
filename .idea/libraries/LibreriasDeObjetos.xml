@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="LibreriasDeObjetos">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../LibreriasDeObjetos" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../LibreriasDeObjetos/Mario Bros/javadoc" />
+      <root url="file://$PROJECT_DIR$/../LibreriasDeObjetos/Musica/javadoc" />
+      <root url="file://$PROJECT_DIR$/../LibreriasDeObjetos/Objetos Sencillos/javadoc" />
+      <root url="file://$PROJECT_DIR$/../LibreriasDeObjetos/dist/javadoc" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../LibreriasDeObjetos" recursive="false" />
+  </library>
+</component>
